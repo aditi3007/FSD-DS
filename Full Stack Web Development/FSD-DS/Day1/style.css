@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(74, 183, 183);
+}
+tr{
+    background-color: azure;
+    color:blue
+}
+table{
+    border-radius: 12px;
+    border-color: rgb(180, 118, 43);
+    border-style: groove;
+    border-width: 5px;
+}
